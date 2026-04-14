@@ -87,10 +87,28 @@ When code gets tiring, I run. When running gets tiring, I code.
 如果我的项目或分享对你有帮助，欢迎请我喝杯咖啡。
 If you find my projects helpful, consider buying me a coffee.
 
-<!-- 爱发电（开通后替换链接） -->
-<!-- [![爱发电](https://img.shields.io/badge/☕-爱发电-AFD044?style=for-the-badge&logo=buymeacoffee)](https://afdian.com/a/wanfu) -->
+<div align="center">
+
+**🇨🇳 国内用户扫码支持**
+
+<table>
+<tr>
+<td align="center">
+<img src="assets/alipay.jpg" width="200" alt="支付宝"><br>
+<b>支付宝</b>
+</td>
+<td align="center">
+<img src="assets/wechat-pay.png" width="200" alt="微信支付"><br>
+<b>微信支付</b>
+</td>
+</tr>
+</table>
+
+**🌍 海外用户**
 
 [![GitHub Sponsors](https://img.shields.io/badge/💖-GitHub_Sponsors-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/WanfuVictor)
+
+</div>
 
 你的支持，是我继续追梦的动力。
 Your support keeps my dream alive.
