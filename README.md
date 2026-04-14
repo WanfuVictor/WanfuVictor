@@ -24,9 +24,9 @@ Building my dream, one commit at a time.
 > Bringing cutting-edge technology back to everyday life.
 > Illuminating ordinary moments with the warmth of innovation.
 
-扎根八桂大地，面向全国及东南亚市场，致力于为中小型传统企业与普通群体提供「轻量化、可负担」的前沿科技服务。
+扎根八桂大地，面向全国及全球市场，致力于为中小型传统企业与普通群体提供「轻量化、可负担」的前沿科技服务。
 
-Rooted in Guangxi, serving China and Southeast Asia. We provide lightweight, affordable cutting-edge tech services for SMEs and everyday users.
+Rooted in Guangxi, serving clients nationwide and worldwide. We provide lightweight, affordable cutting-edge tech services for SMEs and everyday users.
 
 **核心方向 | Core Focus：**
 - 🤖 轻量化 AI 引擎 — 小样本学习框架，少量样本即可构建高精度行业模型

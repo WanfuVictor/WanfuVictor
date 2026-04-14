@@ -7,9 +7,9 @@
 
 ## 公司简介 | About Us
 
-广西万福深度科技有限公司成立于2024年，扎根八桂大地，面向全国及东南亚市场，致力于为中小型传统企业与普通群体提供「轻量化、可负担」的前沿科技服务。
+广西万福深度科技有限公司成立于2024年，扎根八桂大地，面向全国及全球市场，致力于为中小型传统企业与普通群体提供「轻量化、可负担」的前沿科技服务。
 
-Guangxi Wanfu Deep Technology Co., Ltd. was founded in 2024. Rooted in Guangxi, we serve clients across China and Southeast Asia, dedicated to providing lightweight and affordable cutting-edge technology services for small-to-medium traditional enterprises and everyday users.
+Guangxi Wanfu Deep Technology Co., Ltd. was founded in 2024. Rooted in Guangxi, we serve clients nationwide and worldwide, dedicated to providing lightweight and affordable cutting-edge technology services for small-to-medium traditional enterprises and everyday users.
 
 我们以「新质生产力赋能」为核心，聚焦人工智能创新、大数据分析与工业物联网技术，通过自主研发的轻量化AI引擎与模块化解决方案，助力中小企业在不改变原有生产流程的前提下，30天内实现质检效率提升200%、能耗成本降低35%的数字化转型目标。
 
@@ -78,8 +78,8 @@ Covering 20+ scenarios including equipment failure prediction, agricultural qual
 
 ## 联系我们 | Contact
 
-- 📍 地址 Address：广西 Guangxi, China
-- 🌐 服务范围 Service Area：全国及东南亚 China & Southeast Asia
+- 📍 地址 Address：中国广西 Guangxi, China
+- 🌐 服务范围 Service Area：全国及全球 Clients Worldwide
 - 📧 联系方式 Contact：通过 [GitHub](https://github.com/WanfuVictor) 联系
 
 ---
