@@ -16,21 +16,31 @@ Building my dream, one commit at a time.
 
 ## 🏢 About My Company | 关于我的公司
 
-**广西万福深度科技有限公司** — 成立于 2024
+**广西万福深度科技有限公司 | Guangxi Wanfu Deep Technology Co., Ltd.** — Est. 2024
 
 > 让前沿技术回归人间烟火
 > 以科技温度，点亮平凡星光
 
+> Bringing cutting-edge technology back to everyday life.
+> Illuminating ordinary moments with the warmth of innovation.
+
 扎根八桂大地，面向全国及东南亚市场，致力于为中小型传统企业与普通群体提供「轻量化、可负担」的前沿科技服务。
 
-核心方向：
+Rooted in Guangxi, serving China and Southeast Asia. We provide lightweight, affordable cutting-edge tech services for SMEs and everyday users.
+
+**核心方向 | Core Focus：**
 - 🤖 轻量化 AI 引擎 — 小样本学习框架，少量样本即可构建高精度行业模型
+  *Lightweight AI Engine — Few-shot learning framework for high-precision industry models*
 - 📊 大数据分析 — 开源大模型知识蒸馏，少参数实现专业领域智能化
+  *Big Data Analytics — Knowledge distillation from open-source LLMs for domain-specific intelligence*
 - 🏭 工业物联网 — 设备故障预测、农产品品控、智能排产
+  *Industrial IoT — Equipment failure prediction, agricultural quality control, smart scheduling*
 
 从田间地头到小微工厂，让前沿技术成为普通人触手可及的生产力伙伴。
 
-👉 [查看完整公司介绍](COMPANY.md)
+From farms to small factories, making advanced technology an accessible productivity partner for everyone.
+
+👉 [查看完整公司介绍 | View Full Company Profile](COMPANY.md)
 
 ---
 
