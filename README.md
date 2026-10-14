@@ -1,124 +1,58 @@
-# 👋 Hi, I'm 万福 (Wanfu)
+# 👋 Hi, I'm Wanfu
 
-**全栈工程师 | AI 实践者 | 追梦创业者**
+**Software Developer · AI Builder · Open-source Enthusiast**
 
-Full-stack Engineer | AI Practitioner | Entrepreneur on the Journey
+I build practical software with .NET and AI, explore ideas by making things, and share what I learn along the way.
 
----
-
-一个人，一家公司，一支 AI 智能体团队。
-正在用自己的方式，把梦想变成现实。
-
-Running a tech company solo, powered by a 15-member AI agent team.
-Building my dream, one commit at a time.
+用代码解决实际问题，用 AI 加速探索，也把实践中的经验和踩坑记录下来。
 
 ---
 
-## 🏢 About My Company | 关于我的公司
+## 🔧 What I'm Exploring | 技术方向
 
-**广西万福深度科技有限公司 | Guangxi Wanfu Deep Technology Co., Ltd.** — Est. 2024
+- 💻 **.NET & C#** — Blazor, .NET MAUI, EF Core
+- 🤖 **AI & LLMs** — Local inference, AI agents, practical AI applications
+- ⚙️ **Developer Tools** — Automation, data processing, productivity tools
+- 🧪 **Experiment & Build** — Turning small ideas into useful, working software
 
-> 让前沿技术回归人间烟火
-> 以科技温度，点亮平凡星光
+## 🚀 Projects | 个人项目
 
-> Bringing cutting-edge technology back to everyday life.
-> Illuminating ordinary moments with the warmth of innovation.
+Most of my projects start with a simple question: *Can this be made more useful, simpler, or easier to use?*
 
-扎根八桂大地，面向全国及全球市场，致力于为中小型传统企业与普通群体提供「轻量化、可负担」的前沿科技服务。
+- **Apps & Utilities** — Small tools built to solve practical problems
+- **AI Experiments** — Exploring local models, agent workflows, and AI-assisted development
+- **Learning by Building** — Testing ideas, refining implementations, and sharing reusable solutions
 
-Rooted in Guangxi, serving clients nationwide and worldwide. We provide lightweight, affordable cutting-edge tech services for SMEs and everyday users.
+Check out my pinned repositories to see what I'm building.
 
-**核心方向 | Core Focus：**
-- 🤖 轻量化 AI 引擎 — 小样本学习框架，少量样本即可构建高精度行业模型
-  *Lightweight AI Engine — Few-shot learning framework for high-precision industry models*
-- 📊 大数据分析 — 开源大模型知识蒸馏，少参数实现专业领域智能化
-  *Big Data Analytics — Knowledge distillation from open-source LLMs for domain-specific intelligence*
-- 🏭 工业物联网 — 设备故障预测、农产品品控、智能排产
-  *Industrial IoT — Equipment failure prediction, agricultural quality control, smart scheduling*
+## 🌱 Open Source | 开源协作
 
-从田间地头到小微工厂，让前沿技术成为普通人触手可及的生产力伙伴。
+I believe good software grows through experimentation, feedback, and collaboration.
 
-From farms to small factories, making advanced technology an accessible productivity partner for everyone.
+这里主要记录个人项目、技术实验和学习成果。欢迎交流想法、反馈问题，也欢迎参与改进。
 
-👉 [查看完整公司介绍 | View Full Company Profile](COMPANY.md)
+- 🐛 Bug reports and feature suggestions
+- 📝 Documentation improvements
+- 🔧 Pull requests and technical discussions
 
----
+Before contributing, please check the README, license, and contribution guidelines of the relevant repository. For larger changes, opening an issue first is a good way to align on the approach.
 
-## 🔥 What I'm Working On | 我在做什么
+## 🧭 A Few Principles | 一些想法
 
-- 🤖 **AI 智能体团队** — 15 个子智能体协作（开发 / 运营 / 销售）
-- 💻 **全栈开发** — .NET 10 / C# / Blazor / MAUI / EF Core
-- 🧠 **本地大模型部署** — llama.cpp / Qwen3.5 / Gemma4
-- 📊 **自研项目** — PPT 引擎 / 微信公众号自动化 / 智慧族谱系统
+- Build something useful before making it complicated.
+- Use AI as a tool, and verify the results with engineering judgment.
+- Stay curious, keep experimenting, and improve one step at a time.
 
-## 💡 My Belief | 我相信的事
-
-> 技术不是目的，是实现梦想的工具。
-> 一个人也可以有千军万马，只要你足够相信。
-
-> Technology is not the goal — it's the tool to make dreams come true.
-> One person can command an army, if you believe enough.
-
-创业第三年，资金紧张，但我还在坚持。
-因为我相信，用对的方法 + AI 的力量，一个人也能改变世界。
-
-Third year of bootstrapping. Funds are tight, but I'm still here.
-I believe that with the right approach and the power of AI, one person can make a difference.
+技术是探索世界的一种方式。比起追逐概念，我更喜欢把想法真正做出来。
 
 ## 🏃 Beyond Code | 代码之外
 
-业余马拉松跑者 | 日均 20km+
-写代码写累了就去跑步，跑完步回来继续写代码。
+Long-distance running keeps me balanced. It teaches me to respect the process, stay consistent, and focus on the long run.
 
-Amateur marathon runner | 20km+ daily
-When code gets tiring, I run. When running gets tiring, I code.
-
-## 💬 Let's Connect | 找我聊聊
-
-| 🇨🇳 中文 | 🌍 English |
-|---------|-----------|
-| 技术咨询 / 架构设计 | Tech consulting / Architecture design |
-| AI 智能体团队搭建 | AI agent team building |
-| 开源项目合作 | Open source collaboration |
-| 商务合作（数据处理 / 软件开发 / AI 部署） | Business (data processing / software dev / AI deployment) |
-
-## ☕ Support My Dream | 支持我的梦想
-
-如果我的项目或分享对你有帮助，欢迎请我喝杯咖啡。
-If you find my projects helpful, consider buying me a coffee.
-
-<div align="center">
-
-**🇨🇳 国内用户扫码支持**
-
-<table>
-<tr>
-<td align="center">
-<img src="assets/alipay.jpg" width="200" alt="支付宝"><br>
-<b>支付宝</b>
-</td>
-<td align="center">
-<img src="assets/wechat-pay.png" width="200" alt="微信支付"><br>
-<b>微信支付</b>
-</td>
-</tr>
-</table>
-
-**🌍 海外用户**
-
-[![GitHub Sponsors](https://img.shields.io/badge/💖-GitHub_Sponsors-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/WanfuVictor)
-
-</div>
-
-你的支持，是我继续追梦的动力。
-Your support keeps my dream alive.
+跑步和写代码有点像：不一定每天都有突破，但只要持续向前，就会慢慢看到变化。
 
 ---
 
-<div align="center">
+**Thanks for stopping by.**
 
-**"回首往昔，岁月如歌。活跃于斯，芳华尽显。展望未来，星海为航。携手同行，共赴远方~"**
-
-*"Looking back, memories sing. Living here, beauty blooms. Gazing ahead, stars guide the way. Together, we journey far."*
-
-</div>
+感谢来访，欢迎交流、分享想法，一起做点有意思又真正有用的东西。 🚀
