@@ -51,6 +51,45 @@ Long-distance running keeps me balanced. It teaches me to respect the process, s
 
 跑步和写代码有点像：不一定每天都有突破，但只要持续向前，就会慢慢看到变化。
 
+Long-distance runner. Software developer. Always moving forward.
+
+跑步让我学会耐心，也让我明白：有些事情没有捷径，只能一步一步坚持下去。
+
+When I'm not coding, you'll probably find me out running.
+
+## ☕ Support My Open Source Work
+
+如果我的项目对你有所帮助，欢迎请我喝杯咖啡 ☕
+
+Your support helps me keep building, experimenting, and sharing more open-source projects.
+
+<div align="center">
+
+**🇨🇳 支持我 · Alipay / WeChat Pay**
+
+<table>
+<tr>
+<td align="center">
+<img src="assets/alipay.jpg" width="160" alt="Alipay QR Code" /><br/>
+<b>支付宝</b>
+</td>
+<td align="center">
+<img src="assets/wechat-pay.png" width="160" alt="WeChat Pay QR Code" /><br/>
+<b>微信支付</b>
+</td>
+</tr>
+</table>
+
+**🌍 Support internationally**
+
+[![GitHub Sponsors](https://img.shields.io/badge/Support-GitHub_Sponsors-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/WanfuVictor)
+
+</div>
+
+每一份支持，都是继续创造的动力。感谢你愿意参与其中！
+
+Every bit of support means a lot. Thanks for being part of the journey.
+
 ---
 
 **Thanks for stopping by.**
